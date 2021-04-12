@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emma&#39;s Portfolio</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Emma&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 11:35:49 -0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>http://example.org/emma-thoughts/second-post/</link>
+      <pubDate>Thu, 04 Mar 2021 14:06:16 -0600</pubDate>
+      
+      <guid>http://example.org/emma-thoughts/second-post/</guid>
+      <description>&lt;p&gt;Cupcake ipsum dolor sit. Amet oat cake soufflé. Sugar plum liquorice cake cake carrot cake I love bear claw.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/emma-thoughts/first-post/</link>
+      <pubDate>Thu, 04 Mar 2021 13:35:11 -0600</pubDate>
+      
+      <guid>http://example.org/emma-thoughts/first-post/</guid>
+      <description>&lt;p&gt;Cupcake ipsum dolor sit. Amet oat cake soufflé. Sugar plum liquorice cake cake carrot cake I love bear claw.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Truth or Dare</title>
+      <link>http://example.org/projects/truth-or-dare/</link>
+      <pubDate>Tue, 02 Mar 2021 11:39:12 -0600</pubDate>
+      
+      <guid>http://example.org/projects/truth-or-dare/</guid>
+      <description>Multiplayer truth or dare game with live video chat and party gameplay similar to Cards Against Humanity.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Mar 2021 11:51:45 -0600</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>I don&amp;rsquo;t think putting my email here is a good idea, but you can contact me on any of these social media platforms below!</description>
+    </item>
+    
+    <item>
+      <title>Emma&#39;s Travel Wishlist</title>
+      <link>http://example.org/projects/emmas-travel-wishlist/</link>
+      <pubDate>Mon, 01 Mar 2021 11:39:12 -0600</pubDate>
+      
+      <guid>http://example.org/projects/emmas-travel-wishlist/</guid>
+      <description>Travel wishlist dashboard that tracks lowest fares to target destination from desired airport and desired travel dates based on user input.</description>
+    </item>
+    
+    <item>
+      <title>Hello, this is Emma.</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Mar 2021 11:39:12 -0600</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>I am a trans, lesbian, polyamorous, veteran, Asian woman. I currently work as a software engineer in Chicago. It&amp;rsquo;s kind of a long story how I got here (long story to be found in blog posts).
+The tl;dr version.
+My egg cracked on Halloween 2019, while I was living in Tokyo with my wife thanks to a very euphoric crossplay (2B from Nier: Automata). A month later, I came out and started transitioning.</description>
+    </item>
+    
+    <item>
+      <title>Third Post</title>
+      <link>http://example.org/emma-thoughts/third-post/</link>
+      <pubDate>Tue, 02 Feb 2021 14:09:20 -0600</pubDate>
+      
+      <guid>http://example.org/emma-thoughts/third-post/</guid>
+      <description>&lt;p&gt;Cupcake ipsum dolor sit. Amet oat cake soufflé. Sugar plum liquorice cake cake carrot cake I love bear claw.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fourth Post</title>
+      <link>http://example.org/emma-thoughts/fourth-post/</link>
+      <pubDate>Wed, 04 Mar 2020 14:19:45 -0600</pubDate>
+      
+      <guid>http://example.org/emma-thoughts/fourth-post/</guid>
+      <description>&lt;p&gt;Cupcake ipsum dolor sit. Amet oat cake soufflé. Sugar plum liquorice cake cake carrot cake I love bear claw.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

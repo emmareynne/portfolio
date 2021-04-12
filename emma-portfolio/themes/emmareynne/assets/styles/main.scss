@@ -1,0 +1,60 @@
+@function get-vh($target) { 
+  $vh-context: (1000*.005) * 1px;
+  @return ($target/$vh-context) * 1vh;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  font-size: large;
+  background-color: rgb(212, 222, 231);
+  height: 100vh;
+  width: 100vw;
+  // margin: 0;
+  // padding: 0;
+}
+
+.container {
+  display: grid;
+  grid-template-rows: 2fr minmax(100px, 350px) auto auto 1fr;
+  // grid-gap: 0vh;
+  // justify-content: center;
+  // text-align: center;
+  place-items: center;
+  // margin: 0 auto;
+  font-family: 'Lora', serif;
+  .home-image {
+    grid-row-start: 2;
+    // max-width: 100%;
+    // height: auto;
+    img {
+      border-radius: 10px;
+      width: get-vh(100px);
+    }
+  }
+  .item-one {
+    grid-row-start: 3;
+    font-size: xx-large;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    margin-top: 10px;
+
+  }
+  .item-two {
+    margin-top: 2em;
+    grid-row-start: 4;
+    font-size: small;
+    margin-bottom: 10px;
+    a {
+      margin: 0px 5px 0px 5px;
+      text-decoration: none;
+      color: rgb(131, 131, 254);
+    }
+    a:hover {
+      color: blue;
+    }
+  }
+}

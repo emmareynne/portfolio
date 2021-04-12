@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Emma's Portfolio"
+theme = "emmareynne"
+Paginate = 3
+
+[taxonomies]
+  purpose = "purposes"
+  tag = "tags"
+  category = "categories"
+  year = "year"
+  month = "month"
+
+[permalinks]
+  posts = "posts/:year/:month/:slug"
+  year = "/posts/:slug/"
+  month = "/posts/:slug/"
+
+[params]
+  author = "Emma de Silva"
+  description = "Emma's Place"
+  keywords = ""
+
+  gh_url = "https://api.github.com/users/"
+  gh_user = "emmareynne"

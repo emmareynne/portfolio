@@ -1,0 +1,9 @@
+{
+  "projects": [
+  {
+  "url": "http://example.org/projects/truth-or-dare/",
+  "title": "Truth or Dare" },
+  {
+  "url": "http://example.org/projects/emmas-travel-wishlist/",
+  "title": "Emma's Travel Wishlist" } ]
+}

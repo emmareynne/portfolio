@@ -1,0 +1,14 @@
+{{ partial "head" . }}
+<main class="container">
+  <div class="home-image">
+    {{- $image := resources.Get "images/selfie.jpg" -}}
+    {{ $imagecropped := $image.Resize "x250 q100" }}
+    <img src="{{ $imagecropped.RelPermalink }}">
+  </div>
+  <div class="item-one">
+    {{- .Params.name -}}
+  </div>
+  <div class="item-two">
+    {{ partial "nav" . }}
+  </div>
+</main>
